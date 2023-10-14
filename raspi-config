@@ -1,3 +1,5 @@
+#!/usr/bin/env sh
+
 #!/bin/sh
 # Part of raspi-config http://github.com/asb/raspi-config
 #
